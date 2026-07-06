@@ -1,4 +1,2 @@
-print(Stinky World)
-# change to polish
-
-
+print(Stinky stinker World)
+# change to polishh
