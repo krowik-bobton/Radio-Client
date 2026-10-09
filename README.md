@@ -62,7 +62,7 @@ Options may appear in any order, values may be attached to the flag (`-t3000`), 
 
 ### Examples
 
-Play a stream with `play` (SoX):
+Play a stream with `play`:
 
 ```bash
 ./sikradio -u http://stream.example.com:8000/radio.mp3 | play -q -t mp3 -
